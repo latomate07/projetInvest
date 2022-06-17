@@ -1,0 +1,74 @@
+SOMMAIRE :
+  I. TYPE D'UTILISATEUR ET LES FONCTIONNALITÉS QUI LEURS SONT AUTORISÉES
+  II. SPÉCIFITÉS DE CHAQUE FONCTIONNALITÉ
+  III. 
+
+I. TYPE D'UTILISATEUR ET LES FONCTIONNALITÉS QUI LEURS SONT AUTORISÉES
+
+Le réseau social sera de type Twitter dans lequel un utilisateur peut :
+
+1. S'inscrire en tant que ENTREPRISE ou INVESTISSEUR
+
+2. Utilisateur ENTREPRISE peut :
+   a. Remplir son profil 
+   b. Ajouter des projets sous forme de TWEET (Pareil que dans TWITTER)
+   c. Répondre aux questions sous son TWEET
+   d. Voir le profil d'un INVESTISSEUR
+   e. À partir de sa PUBLICATION ou le profil de L'INVESTISSEUR, Envoyer un message privé à ce dernier
+   f. Recevoir des messages privés
+   g. Consulter les utilisateurs qui ont aimé sa PUBLICATION
+   h. Partager sa publication sur les réseaux sociaux
+   i. Booster sa publication pour plus de vues (SYSTÈME DE PUBLICITÉ)
+   j. Appeler son interlocuteur
+   k. Recevoir des notifications par mail et sur la plateforme
+   l. Accéder à la fil d'actualité et voir tout les projets présents sur la plateforme 
+   m. Réagir aux projets présents (Aimer et/ou poser une question)
+   n. Déclarer son BILAN mensuellement pour aider l'INVESTISSEUR à en savoir plus sur son investissement
+   
+3. Utilisateur INVESTISSEUR peut :
+   a. Remplir son profil 
+   b. Ajouter ses centres d'intérêts
+   c. Réagir aux projets présents (Aimer et/ou poser une question)
+   d. Voir le profil d'une ENTREPRISE
+   e. Envoyer un message privé à UNE ENTREPRISE
+   f. Recevoir des messages privés
+   g. Consulter les utilisateurs qui ont aimé n'importe quelle PUBLICATION
+   h. Partager une publication sur les réseaux sociaux
+   i. Appeler son interlocuteur
+   j. Recevoir des notifications par mail et sur la plateforme
+   k. Accéder à la fil d'actualité et voir tout les projets présents sur la plateforme
+   l. Ajouter des PROJETS en favoris
+   m. Consulter l'État Financier de l'entreprise (Bilan) 
+ 
+II. SPÉCIFITÉS DE CHAQUE FONCTIONNALITÉ
+
+A. CÔTÉ ENTREPRISE :
+   1. Remplir le profil : 
+   Afin de valider le profil d'un utilisateur, nous aurons besoin de récupérer, traiter et valider (ou non) les documents suivants :
+      =>  Ajouter une photo de profil (OBLIGATOIRE)
+      =>  Ajouter une photo de couverture (FACULTATIF)
+      =>  Description de l'entreprise
+      =>	Adresse postale et électronique de l’entreprise (OBLIGATOIRE)
+      =>  Nombre de salarié
+      =>  Numéro de SIRET (OBLIGATOIRE)
+      =>  Statut Juridique de l’entreprise (OBLIGATOIRE)
+      =>  Bilan de l’entreprise de minimum 1 an ou Lettre de motivation (OBLIGATOIRE)
+      =>	Numéro de téléphone de l’entreprise (OBLIGATOIRE)
+      =>	IBAN de l’entreprise (OBLIGATOIRE)
+      =>	Nom & Prénom de l’entrepreneur(se) (OBLIGATOIRE)
+      =>	Âge de l'entrepreneur(se) (OBLIGATOIRE)
+      =>	Pièce d’identité valide de l’entrepreneur (OBLIGATOIRE)
+   
+   2. Ajouter des projets sous forme de TWEET (Pareil que dans TWITTER) :
+   Pour pouvoir valider un PROJET rempli par une ENTREPRISE, nous aurons besoin de récupérer, traiter et valider (ou non) les informations suivantes :
+      =>  Nom du Projet (OBLIGATOIRE)
+      =>  Catégorie du projet (OBLIGATOIRE)
+      =>  Description du Projet (OBLIGATOIRE)
+      =>  Montant souhaité (OBLIGATOIRE)
+      =>  Pourcentage que recevra L'INVESTISSEUR (OBLIGATOIRE)
+      =>  Type de Versement du ROI de l'INVESTISSEUR [ PAR => TRIMESTRE ou ANNUELLEMENT ou CHAQUE => 2,3,4 ou 5 ANS ] (OBLIGATOIRE)
+      =>  Image et/ou Video de l'activité de l'entreprise (OBLIGATOIRE)
+      =>	Booster la publication (FACULTATIF)
+      
+   3. Répondre aux questions sous son TWEET :
+
